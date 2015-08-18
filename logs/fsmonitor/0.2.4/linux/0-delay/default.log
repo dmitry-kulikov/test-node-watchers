@@ -1,0 +1,149 @@
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
++tmp/
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
++tmp/file
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
++tmp/file_new
+-tmp/file
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
++tmp/file
+-tmp/file_new
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
++tmp_new/file
+-tmp/file
++tmp_new/
+-tmp/
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
++tmp/file
+-tmp_new/file
++tmp/
+-tmp_new/
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
+-tmp/file
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
+-tmp/
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
++tmp/
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
++tmp/file
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
+!tmp/file
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
+!tmp/file
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
++tmp/file_new
+-tmp/file
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
++tmp/file
+-tmp/file_new
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
++tmp_new/file
+-tmp/file
++tmp_new/
+-tmp/
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
++tmp/file
+-tmp_new/file
++tmp/
+-tmp_new/
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
+-tmp/file
+
+Mon Aug 17 2015 12:28:01 GMT+0600 (OMST) Change detected:
+-tmp/
+
+------------------------------------------------------------------------------------------------------------------------
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
++tmp/
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
++tmp/file
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
+!tmp/file
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
+!tmp/file
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
++tmp/file_new
+-tmp/file
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
+-tmp/file_new
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
++tmp/file
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
++tmp_new/file
+-tmp/file
++tmp_new/
+-tmp/
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
++tmp/file
+-tmp_new/file
++tmp/
+-tmp_new/
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
+-tmp/file
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
+-tmp/
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
++tmp/
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
++tmp/file
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
+!tmp/file
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
+!tmp/file
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
++tmp/file_new
+-tmp/file
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
++tmp/file
+-tmp/file_new
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
++tmp_new/file
+-tmp/file
++tmp_new/
+-tmp/
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
++tmp/file
+-tmp_new/file
++tmp/
+-tmp_new/
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
+-tmp/file
+
+Mon Aug 17 2015 12:28:09 GMT+0600 (OMST) Change detected:
+-tmp/
+

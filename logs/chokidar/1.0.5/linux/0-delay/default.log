@@ -1,0 +1,9 @@
+Sun Aug 09 2015 04:50:54 GMT+0600 (OMST) 'add' 'backend-theme/tmp/file'
+Sun Aug 09 2015 04:50:54 GMT+0600 (OMST) 'unlinkDir' '/media/truecrypt1/test-node-watchers/backend-theme/tmp'
+Sun Aug 09 2015 04:50:54 GMT+0600 (OMST) 'add' 'frontend-theme/tmp/file'
+Sun Aug 09 2015 04:50:54 GMT+0600 (OMST) 'unlink' 'backend-theme/tmp/file'
+------------------------------------------------------------------------------------------------------------------------
+Sun Aug 09 2015 04:50:59 GMT+0600 (OMST) 'add' 'backend-theme/tmp/file'
+Sun Aug 09 2015 04:50:59 GMT+0600 (OMST) 'add' 'backend-theme/tmp_new/file'
+Sun Aug 09 2015 04:50:59 GMT+0600 (OMST) 'unlinkDir' '/media/truecrypt1/test-node-watchers/backend-theme/tmp_new'
+Sun Aug 09 2015 04:51:00 GMT+0600 (OMST) 'unlink' 'backend-theme/tmp_new/file'

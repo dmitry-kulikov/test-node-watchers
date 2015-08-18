@@ -1,0 +1,20 @@
+{
+  "name": "test-node-watchers",
+  "version": "0.1.0",
+  "dependencies": {
+    "chokidar": "^1.0.5",
+    "directory-watcher": "^2.0.2",
+    "fireworm": "^0.6.6",
+    "fsmonitor": "^0.2.4",
+    "gaze": "^0.6.4",
+    "hound": "^1.0.4",
+    "node-watch": "^0.3.4",
+    "pathwatcher": "^5.0.0",
+    "sane": "^1.1.3",
+    "watch": "^0.16.0",
+    "watchr": "^2.4.13",
+    "yawatch": "^0.2.4"
+  },
+  "devDependencies": {
+  }
+}

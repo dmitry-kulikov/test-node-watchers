@@ -1,0 +1,2131 @@
+Mon Aug 10 2015 03:57:48 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme for event log' }
+Mon Aug 10 2015 03:57:48 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme for event change' }
+Mon Aug 10 2015 03:57:48 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme' }
+Mon Aug 10 2015 03:57:48 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme for event log' }
+Mon Aug 10 2015 03:57:48 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme for event change' }
+Mon Aug 10 2015 03:57:48 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme' }
+Mon Aug 10 2015 03:57:54 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme' }
+Mon Aug 10 2015 03:57:54 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme' }
+Mon Aug 10 2015 03:57:54 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: backend-theme/tmp no' }
+Mon Aug 10 2015 03:57:54 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: backend-theme/tmp via: backend-theme' }
+Mon Aug 10 2015 03:57:54 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp for event log' }
+Mon Aug 10 2015 03:57:54 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp for event change' }
+Mon Aug 10 2015 03:57:54 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp for event error' }
+Mon Aug 10 2015 03:57:54 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp' }
+Mon Aug 10 2015 03:57:54 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'backend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:57:54 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:57:54 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:57:54 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: backend-theme/tmp/file no' }
+Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: backend-theme/tmp/file via: backend-theme/tmp' }
+Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event log' }
+Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event change' }
+Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event error' }
+Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'backend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 0,
+     blocks: 0,
+     atime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 03:58:04 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:04 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:04 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:04 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:04 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:04 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:04 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined same: backend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:57:54 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:58:04 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined update: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:04 GMT+0600 (OMST) 'a change event occurred:' { '0': 'update',
+  '1': 'backend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 10,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:58:04 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:58:04 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 0,
+     blocks: 0,
+     atime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:58:09 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:09 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:09 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:09 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:09 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:09 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:09 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined same: backend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:58:09 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined update: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:09 GMT+0600 (OMST) 'a change event occurred:' { '0': 'update',
+  '1': 'backend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:58:09 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:58:09 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 10,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:58:04 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:58:04 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:58:09 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:58:09 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: backend-theme/tmp/file_new no' }
+Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: backend-theme/tmp/file_new via: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file_new for event log' }
+Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file_new for event change' }
+Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file_new for event error' }
+Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp/file_new' }
+Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'backend-theme/tmp/file_new',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:58:09 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file_new' }
+Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp/file_new' }
+Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: backend-theme/tmp/file_new' }
+Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp/file_new' }
+Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp/file_new',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:58:09 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:58:14 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: backend-theme/tmp/file no' }
+Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: backend-theme/tmp/file via: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event log' }
+Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event change' }
+Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event error' }
+Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'backend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:58:09 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Determined delete: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:58:09 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:58:14 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:58:19 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: backend-theme/tmp_new no' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: backend-theme/tmp_new via: backend-theme' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp_new for event log' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp_new for event change' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp_new for event error' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp_new' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp_new/file for event log' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp_new/file for event change' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp_new/file for event error' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp_new/file' }
+Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'backend-theme/tmp_new',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:58:24 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:58:19 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp_new' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp_new' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: backend-theme/tmp_new' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp_new' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp_new/file' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp_new/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:58:09 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp_new',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:58:24 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:58:19 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:58:24 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: backend-theme/tmp no' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: backend-theme/tmp via: backend-theme' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp for event log' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp for event change' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp for event error' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event log' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event change' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event error' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'backend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:58:29 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:58:19 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:58:29 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 03:58:34 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:34 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:34 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:34 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:34 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:34 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:34 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:34 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp/file' }
+Mon Aug 10 2015 03:58:34 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:57:59 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:58:09 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:58:19 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:58:39 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:39 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:39 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme' }
+Mon Aug 10 2015 03:58:39 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:39 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Determined delete: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:39 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp' }
+Mon Aug 10 2015 03:58:39 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:58:29 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:58:34 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:58:34 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:58:39 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme' }
+Mon Aug 10 2015 03:59:35 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme' }
+Mon Aug 10 2015 03:59:35 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme' }
+Mon Aug 10 2015 03:59:35 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: frontend-theme/tmp no' }
+Mon Aug 10 2015 03:59:35 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: frontend-theme/tmp via: frontend-theme' }
+Mon Aug 10 2015 03:59:35 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp for event log' }
+Mon Aug 10 2015 03:59:35 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp for event change' }
+Mon Aug 10 2015 03:59:35 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp for event error' }
+Mon Aug 10 2015 03:59:35 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp' }
+Mon Aug 10 2015 03:59:35 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'frontend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:35 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:35 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:59:35 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: frontend-theme/tmp/file no' }
+Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: frontend-theme/tmp/file via: frontend-theme/tmp' }
+Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event log' }
+Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event change' }
+Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event error' }
+Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp/file' }
+Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'frontend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 0,
+     blocks: 0,
+     atime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 03:59:45 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 03:59:45 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 03:59:45 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 03:59:45 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 03:59:45 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 03:59:45 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 03:59:45 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined same: frontend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:35 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:59:45 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined update: frontend-theme/tmp/file' }
+Mon Aug 10 2015 03:59:45 GMT+0600 (OMST) 'a change event occurred:' { '0': 'update',
+  '1': 'frontend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 10,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:45 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:59:45 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 0,
+     blocks: 0,
+     atime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:59:50 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 03:59:50 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 03:59:50 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 03:59:50 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 03:59:50 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 03:59:50 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 03:59:50 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined same: frontend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:59:50 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined update: frontend-theme/tmp/file' }
+Mon Aug 10 2015 03:59:50 GMT+0600 (OMST) 'a change event occurred:' { '0': 'update',
+  '1': 'frontend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:50 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:59:50 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 10,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:45 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:59:45 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: frontend-theme/tmp/file' }
+Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp/file' }
+Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:50 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:59:50 GMT+0600 (OMST) } }
+Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: frontend-theme/tmp/file_new no' }
+Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: frontend-theme/tmp/file_new via: frontend-theme/tmp' }
+Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file_new for event log' }
+Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file_new for event change' }
+Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file_new for event error' }
+Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp/file_new' }
+Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'frontend-theme/tmp/file_new',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:50 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file_new' }
+Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp/file_new' }
+Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: frontend-theme/tmp/file_new' }
+Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp/file_new' }
+Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp/file_new',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:50 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 03:59:55 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: frontend-theme/tmp/file no' }
+Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: frontend-theme/tmp/file via: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event log' }
+Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event change' }
+Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event error' }
+Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'frontend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:50 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Determined delete: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:50 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:55 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:00 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: frontend-theme/tmp_new no' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: frontend-theme/tmp_new via: frontend-theme' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp_new for event log' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp_new for event change' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp_new for event error' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp_new' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp_new/file for event log' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp_new/file for event change' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp_new/file for event error' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp_new/file' }
+Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'frontend-theme/tmp_new',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:05 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:00 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp_new' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp_new' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: frontend-theme/tmp_new' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp_new' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp_new/file' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp_new/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:50 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp_new',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:05 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:00 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:05 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: frontend-theme/tmp no' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: frontend-theme/tmp via: frontend-theme' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp for event log' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp for event change' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp for event error' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event log' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event change' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event error' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'frontend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:10 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:00 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:10 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:00:15 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:15 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:15 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:15 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:15 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:15 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:15 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:15 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:15 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 03:59:40 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 03:59:50 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:00 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:00:20 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:20 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:20 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme' }
+Mon Aug 10 2015 04:00:20 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:20 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme' }
+Mon Aug 10 2015 04:00:20 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Determined delete: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:20 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp' }
+Mon Aug 10 2015 04:00:20 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:10 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:15 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:15 GMT+0600 (OMST) } }
+------------------------------------------------------------------------------------------------------------------------
+Mon Aug 10 2015 04:00:31 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme' }
+Mon Aug 10 2015 04:00:31 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme' }
+Mon Aug 10 2015 04:00:31 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: backend-theme/tmp no' }
+Mon Aug 10 2015 04:00:31 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: backend-theme/tmp via: backend-theme' }
+Mon Aug 10 2015 04:00:31 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp for event log' }
+Mon Aug 10 2015 04:00:31 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp for event change' }
+Mon Aug 10 2015 04:00:31 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp for event error' }
+Mon Aug 10 2015 04:00:31 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:31 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'backend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:31 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:31 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:31 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: backend-theme/tmp/file no' }
+Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: backend-theme/tmp/file via: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event log' }
+Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event change' }
+Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event error' }
+Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'backend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 0,
+     blocks: 0,
+     atime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:00:41 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:41 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:41 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:41 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:41 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:41 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:41 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined same: backend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:31 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:00:41 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined update: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:41 GMT+0600 (OMST) 'a change event occurred:' { '0': 'update',
+  '1': 'backend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 10,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:41 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:41 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 0,
+     blocks: 0,
+     atime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:00:46 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:46 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:46 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:46 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:46 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:46 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:46 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined same: backend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:00:46 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined update: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:46 GMT+0600 (OMST) 'a change event occurred:' { '0': 'update',
+  '1': 'backend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:46 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:46 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 10,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:41 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:41 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:00:51 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:52 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:46 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:46 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:00:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: backend-theme/tmp/file_new no' }
+Mon Aug 10 2015 04:00:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: backend-theme/tmp/file_new via: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file_new for event log' }
+Mon Aug 10 2015 04:00:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file_new for event change' }
+Mon Aug 10 2015 04:00:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file_new for event error' }
+Mon Aug 10 2015 04:00:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp/file_new' }
+Mon Aug 10 2015 04:00:52 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'backend-theme/tmp/file_new',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:46 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:51 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file_new' }
+Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp/file_new' }
+Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: backend-theme/tmp/file_new' }
+Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp/file_new' }
+Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp/file_new',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:46 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:51 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: backend-theme/tmp/file no' }
+Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: backend-theme/tmp/file via: backend-theme/tmp' }
+Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event log' }
+Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event change' }
+Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event error' }
+Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'backend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:46 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Determined delete: backend-theme/tmp' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:46 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:52 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:56 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: backend-theme/tmp_new no' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: backend-theme/tmp_new via: backend-theme' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp_new for event log' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp_new for event change' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp_new for event error' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp_new' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp_new/file for event log' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp_new/file for event change' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp_new/file for event error' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp_new/file' }
+Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'backend-theme/tmp_new',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:01:01 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:56 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp_new' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp_new' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: backend-theme/tmp_new' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp_new' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp_new/file' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp_new/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:46 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp_new',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:01:01 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:56 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:01:01 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: backend-theme/tmp no' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: backend-theme/tmp via: backend-theme' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp for event log' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp for event change' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp for event error' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event log' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event change' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on backend-theme/tmp/file for event error' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'backend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:01:06 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:56 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:01:06 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:01:11 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:01:11 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:01:11 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:01:11 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 04:01:11 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:01:11 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:01:11 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp/file' }
+Mon Aug 10 2015 04:01:11 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:00:36 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:00:46 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:00:56 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:01:11 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 04:01:16 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 04:01:16 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme/tmp' }
+Mon Aug 10 2015 04:01:16 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: backend-theme' }
+Mon Aug 10 2015 04:01:16 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme/tmp' }
+Mon Aug 10 2015 04:01:16 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: backend-theme' }
+Mon Aug 10 2015 04:01:16 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Determined delete: backend-theme/tmp' }
+Mon Aug 10 2015 04:01:16 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: backend-theme/tmp' }
+Mon Aug 10 2015 04:01:16 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'backend-theme/tmp',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:01:06 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:01:11 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:01:11 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:02:12 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme' }
+Mon Aug 10 2015 04:02:12 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme' }
+Mon Aug 10 2015 04:02:12 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: frontend-theme/tmp no' }
+Mon Aug 10 2015 04:02:12 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: frontend-theme/tmp via: frontend-theme' }
+Mon Aug 10 2015 04:02:12 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp for event log' }
+Mon Aug 10 2015 04:02:12 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp for event change' }
+Mon Aug 10 2015 04:02:12 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp for event error' }
+Mon Aug 10 2015 04:02:12 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:12 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'frontend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:12 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:12 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:12 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: frontend-theme/tmp/file no' }
+Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: frontend-theme/tmp/file via: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event log' }
+Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event change' }
+Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event error' }
+Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'frontend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 0,
+     blocks: 0,
+     atime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:02:22 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:22 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:22 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:22 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:22 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:22 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:22 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined same: frontend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:12 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:02:22 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined update: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:22 GMT+0600 (OMST) 'a change event occurred:' { '0': 'update',
+  '1': 'frontend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 10,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:22 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:22 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 0,
+     blocks: 0,
+     atime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:02:27 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:27 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:27 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:27 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:27 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:27 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:27 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined same: frontend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:02:27 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined update: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:27 GMT+0600 (OMST) 'a change event occurred:' { '0': 'update',
+  '1': 'frontend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:27 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:27 GMT+0600 (OMST) },
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 10,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:22 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:22 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:27 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:27 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: frontend-theme/tmp/file_new no' }
+Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: frontend-theme/tmp/file_new via: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file_new for event log' }
+Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file_new for event change' }
+Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file_new for event error' }
+Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp/file_new' }
+Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'frontend-theme/tmp/file_new',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:27 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file_new' }
+Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp/file_new' }
+Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: frontend-theme/tmp/file_new' }
+Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp/file_new' }
+Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp/file_new',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:27 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:32 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: frontend-theme/tmp/file no' }
+Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: frontend-theme/tmp/file via: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event log' }
+Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event change' }
+Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event error' }
+Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'frontend-theme/tmp/file',
+  '2': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:27 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Determined delete: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:27 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:32 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:37 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: frontend-theme/tmp_new no' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: frontend-theme/tmp_new via: frontend-theme' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp_new for event log' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp_new for event change' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp_new for event error' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp_new' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp_new/file for event log' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp_new/file for event change' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp_new/file for event error' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp_new/file' }
+Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'frontend-theme/tmp_new',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:42 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:37 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp_new' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp_new' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: frontend-theme/tmp_new' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp_new' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp_new/file' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp_new/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:27 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp_new',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:42 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:37 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:42 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'ignore: frontend-theme/tmp no' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined create: frontend-theme/tmp via: frontend-theme' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp for event log' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp for event change' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp for event error' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event log' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event change' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'added a listener: on frontend-theme/tmp/file for event error' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'watch: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) 'a change event occurred:' { '0': 'create',
+  '1': 'frontend-theme/tmp',
+  '2': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:47 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:37 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:47 GMT+0600 (OMST) },
+  '3': null }
+Mon Aug 10 2015 04:02:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch triggered on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Determined delete: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:52 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp/file' }
+Mon Aug 10 2015 04:02:52 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp/file',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 33204,
+     nlink: 1,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 803121,
+     size: 14,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:17 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:27 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:37 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:02:57 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:57 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:57 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Watch triggered on: frontend-theme' }
+Mon Aug 10 2015 04:02:57 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:57 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'Determined delete: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:57 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug', '1': 'close: frontend-theme/tmp' }
+Mon Aug 10 2015 04:02:57 GMT+0600 (OMST) 'a change event occurred:' { '0': 'delete',
+  '1': 'frontend-theme/tmp',
+  '2': null,
+  '3': 
+   { dev: 64513,
+     mode: 16893,
+     nlink: 2,
+     uid: 1000,
+     gid: 1000,
+     rdev: 0,
+     blksize: 4096,
+     ino: 828359,
+     size: 4096,
+     blocks: 8,
+     atime: Mon Aug 10 2015 04:02:47 GMT+0600 (OMST),
+     mtime: Mon Aug 10 2015 04:02:52 GMT+0600 (OMST),
+     ctime: Mon Aug 10 2015 04:02:52 GMT+0600 (OMST) } }
+Mon Aug 10 2015 04:02:57 GMT+0600 (OMST) 'a log message occurred:' { '0': 'debug',
+  '1': 'Watch followed through on: frontend-theme' }
